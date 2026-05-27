@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterpave",
+        "uuid": 19423871,
+        "checksum": "g5axt"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
